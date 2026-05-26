@@ -1,4 +1,4 @@
-## Hi there 👋
+
 <h1 align="center">Hi 👋, I'm Zakaria Tetbirt</h1>
 
 <p align="center">
