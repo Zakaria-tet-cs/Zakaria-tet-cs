@@ -100,15 +100,17 @@ A full-stack event management system with authentication, booking system, and ad
 ---
 
 ## 📫 Connect With Me
+
 <p>
   <a href="https://github.com/Zakaria-tet-cs">
     <img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
- 
+
   <a href="mailto:zakariatetbirt2@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 </p>
+
 
 ---
 
