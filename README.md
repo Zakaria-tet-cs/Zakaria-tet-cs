@@ -9,26 +9,28 @@
 
 ## 🧑‍💻 About Me
 
-I'm a Computer Science student at **ESTIN (École Supérieure en Informatique et Technologies du Numérique)** in Algeria, passionate about software engineering, full-stack development, and building real-world applications.
+I'm a Computer Science student at **ESTIN (École Supérieure en Informatique et Technologies du Numérique)** in Algeria, passionate about software engineering, full-stack development, and building real-world scalable applications.
 
-I enjoy combining academic knowledge with practical development to create clean, scalable, and production-ready projects.
 
-- 🌐 Building modern web applications with **Next.js**, **TypeScript**, and **Supabase**
-- 🚀 Deploying projects using **Vercel**, **GitHub**, and modern cloud workflows
-- 🛠 Interested in backend systems, UI/UX, and scalable architectures
-- 📚 Continuously learning Computer Science fundamentals and modern technologies
-- 🤝 Collaborating on real-world projects like **Saha-Event**
+- 🌐 Building modern web apps with **Next.js**, **TypeScript**, **Supabase**
+- 🚀 Deploying projects using **Vercel** and **GitHub**
+- 🛠 Interested in backend systems, UI/UX, and scalable architecture
+- 📚 Continuously learning CS fundamentals and modern technologies
 - 🌍 Goal: specialize in Artificial Intelligence and build impactful machine learning systems in a global tech environment
 
 ---
 
 ## 🚀 Tech Stack
 
-### Languages
-`C` • `Java` • `Python` • `JavaScript` • `TypeScript` • `HTML` • `CSS` • `Assembly (NASM)`
+### 👨‍💻 Languages
 <p>
   <img src="https://skillicons.dev/icons?i=c,java,python,js,ts,html,css" />
 </p>
+
+<p>
+  <img src="https://img.shields.io/badge/Assembly-NASM-blue?style=for-the-badge" />
+</p>
+
 
 ---
 
