@@ -44,7 +44,6 @@ I enjoy combining academic knowledge with practical development to create clean,
 - Improving UI/UX and frontend architecture
 - Strengthening backend and deployment skills
 - Growing my GitHub portfolio and technical presence
-- Preparing for international internships and opportunities
 
 ---
 
