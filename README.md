@@ -35,6 +35,7 @@ I enjoy combining academic knowledge with practical development to create clean,
   <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express" />
 </p>
 `Next.js` • `React` • `Supabase` • `REST APIs` • `Responsive Design`
+
 ### 🛢 Databases & Backend
 <p>
   <img src="https://skillicons.dev/icons?i=mongodb,supabase,mysql" />
