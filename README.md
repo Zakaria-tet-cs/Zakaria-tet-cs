@@ -61,13 +61,16 @@ I'm a Computer Science student at **ESTIN (École Supérieure en Informatique et
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Zakaria-tet-cs&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Zakaria-tet-cs&show_icons=true&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Zakaria-tet-cs&theme=tokyonight" />
+  <img src="https://streak-stats.demolab.com?user=Zakaria-tet-cs&theme=tokyonight&hide_border=true" />
 </p>
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zakaria-tet-cs&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
 ---
 
 ## 📂 Featured Project
