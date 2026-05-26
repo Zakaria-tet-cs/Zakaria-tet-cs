@@ -69,6 +69,14 @@ A modern event management platform focused on clean UI, authentication, booking 
 
 ---
 
+## 📈 Activity Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Zakaria-tet-cs&theme=tokyo-night" />
+</p>
+
+---
+
 ## 📫 Connect With Me
 <p>
   <a href="https://github.com/Zakaria-tet-cs">
