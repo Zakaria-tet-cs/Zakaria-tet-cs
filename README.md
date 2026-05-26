@@ -26,11 +26,23 @@ I enjoy combining academic knowledge with practical development to create clean,
 
 ### Languages
 `C` • `Java` • `Python` • `JavaScript` • `TypeScript` • `HTML` • `CSS` • `Assembly (NASM)`
-
+<p>
+  <img src="https://skillicons.dev/icons?i=c,java,python,js,ts,html,css" />
+</p>
 ### Web Development
+<p>
+  <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express" />
+</p>
 `Next.js` • `React` • `Supabase` • `REST APIs` • `Responsive Design`
+### 🛢 Databases & Backend
+<p>
+  <img src="https://skillicons.dev/icons?i=mongodb,supabase,mysql" />
+</p>
 
 ### Tools & Platforms
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,linux,vscode,vercel" />
+</p>
 `Git` • `GitHub` • `Linux` • `VS Code` • `GDB` • `Vercel`
 
 ### Computer Science
