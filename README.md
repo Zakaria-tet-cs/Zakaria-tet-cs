@@ -61,7 +61,7 @@ I'm a Computer Science student at **ESTIN (École Supérieure en Informatique et
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Zakaria-tet-cs&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-stats-git-master-rickstaa.vercel.app/api?username=Zakaria-tet-cs&show_icons=true&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
@@ -69,8 +69,9 @@ I'm a Computer Science student at **ESTIN (École Supérieure en Informatique et
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zakaria-tet-cs&layout=compact&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-stats-git-master-rickstaa.vercel.app/api/top-langs/?username=Zakaria-tet-cs&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
+
 ---
 
 ## 📂 Featured Project
