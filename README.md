@@ -30,6 +30,8 @@ I enjoy combining academic knowledge with practical development to create clean,
   <img src="https://skillicons.dev/icons?i=c,java,python,js,ts,html,css" />
 </p>
 
+---
+
 ### Web Development
 <p align="left">
   <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express" />
