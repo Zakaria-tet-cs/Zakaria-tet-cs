@@ -70,9 +70,15 @@ A modern event management platform focused on clean UI, authentication, booking 
 ---
 
 ## 📫 Connect With Me
-
-- 🐙 GitHub: https://github.com/Zakaria-tet-cs
-- 📧 Email: zakariatetbirt2@gmail.com
+<p>
+  <a href="https://github.com/Zakaria-tet-cs">
+    <img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+ 
+  <a href="mailto:zakariatetbirt2@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+</p>
 
 ---
 
