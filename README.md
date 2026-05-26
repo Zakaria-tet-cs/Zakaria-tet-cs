@@ -18,7 +18,7 @@ I enjoy combining academic knowledge with practical development to create clean,
 - 🛠 Interested in backend systems, UI/UX, and scalable architectures
 - 📚 Continuously learning Computer Science fundamentals and modern technologies
 - 🤝 Collaborating on real-world projects like **Saha-Event**
-- 🌍 Goal: study and work internationally in Europe
+- 🌍 Goal: specialize in Artificial Intelligence and build impactful machine learning systems in a global tech environment
 
 ---
 
