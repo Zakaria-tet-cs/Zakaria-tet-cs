@@ -34,11 +34,10 @@ I'm a Computer Science student at **ESTIN (École Supérieure en Informatique et
 
 ---
 
-### Web Development
-<p align="left">
+### 🌐 Web Development
+<p>
   <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express" />
 </p>
-
 ---
 
 ### 🛢 Databases & Backend
