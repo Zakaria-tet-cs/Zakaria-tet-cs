@@ -31,21 +31,23 @@ I enjoy combining academic knowledge with practical development to create clean,
 </p>
 
 ### Web Development
-<p>
+<p align="left">
   <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express" />
 </p>
-`Next.js` • `React` • `Supabase` • `REST APIs` • `Responsive Design`
+
+---
 
 ### 🛢 Databases & Backend
-<p>
+<p align="left">
   <img src="https://skillicons.dev/icons?i=mongodb,supabase,mysql" />
 </p>
 
+---
+
 ### Tools & Platforms
-<p>
+<p align="left">
   <img src="https://skillicons.dev/icons?i=git,github,linux,vscode,vercel" />
 </p>
-`Git` • `GitHub` • `Linux` • `VS Code` • `GDB` • `Vercel`
 
 ### Computer Science
 `OOP` • `Data Structures & Algorithms` • `Operating Systems` • `Collections` • `Generics`
