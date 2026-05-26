@@ -62,10 +62,16 @@ I enjoy combining academic knowledge with practical development to create clean,
 ## 📂 Featured Project
 
 ### 🎟 Saha-Event
-A modern event management platform focused on clean UI, authentication, booking workflows, and scalable architecture.
+A full-stack event management system with authentication, booking system, and admin dashboard.
 
-**Tech Used:**  
-`Next.js` • `TypeScript` • `Supabase` • `Vercel`
+**Tech Stack:**
+- Next.js
+- TypeScript
+- Supabase
+- Vercel
+
+🔗 Live Demo: https://saha-event-8dgv.vercel.app/
+🔗 GitHub: https://github.com/Zakaria-tet-cs
 
 ---
 
