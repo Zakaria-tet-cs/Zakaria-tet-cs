@@ -42,7 +42,7 @@ I'm a Computer Science student at **ESTIN (École Supérieure en Informatique et
 ---
 
 ### 🛢 Databases & Backend
-<p align="left">
+<p >
   <img src="https://skillicons.dev/icons?i=mongodb,supabase,mysql" />
 </p>
 
@@ -58,12 +58,15 @@ I'm a Computer Science student at **ESTIN (École Supérieure en Informatique et
 
 ---
 
-## 📌 Current Focus
+## 📊 GitHub Stats
 
-- Building professional full-stack applications
-- Improving UI/UX and frontend architecture
-- Strengthening backend and deployment skills
-- Growing my GitHub portfolio and technical presence
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Zakaria-tet-cs&show_icons=true&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Zakaria-tet-cs&theme=tokyonight" />
+</p>
 
 ---
 
